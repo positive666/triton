@@ -1,0 +1,24 @@
+test/TritonGPU/canonicalize.mlir
+  s_83918c4b48d1d5::t_687bbbb7b4bdfc 449-478
+lib/Dialect/TritonGPU/IR/Ops.cpp
+  s_83918c4b48d1d5::t_b6d99c4eab31fc 321-330,332,345-351,353-363
+  s_83918c4b48d1d5::t_4d4660635b198c 331,333-344,352
+  s_83918c4b48d1d5::t_95bbc9db44ca41 364
+  s_83918c4b48d1d5::t_6eb6ab10d3c833 494
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4d46a049c4fe79ea5cdd65fcdff15845148cd126",
+  "prompts": {},
+  "sessions": {
+    "s_83918c4b48d1d5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a166c1-2361-7882-b12b-8e2a719564ad",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Rui Rui4 Cheng <chengrui4@lenovo.com>"
+    }
+  }
+}
