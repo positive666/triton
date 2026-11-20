@@ -1,0 +1,21 @@
+lib/Dialect/TritonGPU/Transforms/RemoveLayoutConversions.cpp
+  s_5c436ae8f15928::t_479ee438d3af04 23,1341-1406,1417,1629-1630
+test/TritonGPU/combine.mlir
+  s_5c436ae8f15928::t_7cd5c9c1e89ff0 4995-5040
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "95d1f9eedfd985372ad5fe2625325cf6d495fcc8",
+  "prompts": {},
+  "sessions": {
+    "s_5c436ae8f15928": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "s_5c436ae8f15928",
+        "model": "unknown"
+      },
+      "human_author": "Rui Rui4 Cheng <chengrui4@lenovo.com>"
+    }
+  }
+}
